@@ -1,0 +1,27 @@
+/* Simple styles for the page */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+header, footer {
+    text-align: center;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 10px 0;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#styledText {
+    font-size: 18px;
+    color: blue;
+}
